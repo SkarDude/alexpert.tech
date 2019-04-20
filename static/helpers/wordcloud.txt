@@ -1,11 +1,11 @@
 1   Databases
-1   Developer
-1   Engineer
-1   Technologist
+2   Developer
+2   Engineer
+2   Technologist
 1   Software
-1   Hacker
-1   Programmer
-1   Coder
+2   Hacker
+2   Programmer
+2   Coder
 1   ORM
 1   SQL
 1   DevOps
