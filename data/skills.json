@@ -1,0 +1,13 @@
+{
+	"title" : "Skills",
+	"skills" : {
+		"Python (Pyramid, Django, Flask)" : "70",
+		"Javascript (React, Vanilla )" : "65",
+		"Mobile (React Native, Swift, Java, iOS, Android)" : "75",
+        "Web (HTML, CSS, Photoshop)" : "80",
+        "Databases (ORM, SQL)": "40",
+        "DevOps (Jenkins, AWS, NeverCode, Bash)": "25",
+        "Security (Networking, Pentesting)": "45",
+        "Polyglot (C, C++, PHP, GO, etc.)": "30"
+	}
+}
