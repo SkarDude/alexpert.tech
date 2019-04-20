@@ -24,6 +24,9 @@ git push origin master
 cd ..
 
 # Committing to dependencies codebase as well
+
+git pull
+
 git add .
 
 # Commit changes.
