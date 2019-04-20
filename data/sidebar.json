@@ -2,5 +2,6 @@
     "title" : "Welcome! I'm",
     "highlightedText" : "Alex Hough",
     "description" : "[Tough like a Hough] Freelance Technologist, Mobile Tech Lead, Full Stack Developer, Security Enthusiast",
-    "displayPicture" : "alex_hough.jpg"
+    "displayPicture" : "alex_hough.jpg",
+    "bannerPicture": "ALEXpert.png"
   }
