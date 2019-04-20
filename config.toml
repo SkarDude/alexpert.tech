@@ -1,4 +1,4 @@
-baseURL = "http://alexpert.tech/"
+baseURL = "https://alexpert.tech/"
 languageCode = "en-us"
 title = "ALEXpert"
 theme = "UILite"
