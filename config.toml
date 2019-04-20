@@ -1,0 +1,4 @@
+baseURL = "http://alexpert.tech/"
+languageCode = "en-us"
+title = "ALEXpert"
+theme = "UILite"
