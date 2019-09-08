@@ -1,3 +1,3 @@
 # alexpert.tech
 
-git clone --recursive [URL to Git repo]
+`git clone --recursive git@github.com:SkarDude/alexpert.tech.git`
