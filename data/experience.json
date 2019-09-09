@@ -2,6 +2,11 @@
 	"title" : "Experience",
 	"experience" : [
 		{
+			"timeperiod" : "August 2011 - Present",
+			"company" : "ALEXpert - Freelance Technologist",
+			"description" : "Assisted in all areas of technology for different companies overall bettering my skills and enhancing the companies I worked for. Development and information security were my primary focuses."
+		},
+		{
 			"timeperiod" : "January 2019 - Present",
 			"company" : "REPAY - Mobile Tech Lead",
 			"description" : ""
@@ -10,11 +15,6 @@
 			"timeperiod" : "July 2017 - December 2018",
 			"company" : "REPAY - Full Stack Developer",
 			"description" : ""
-		},
-		{
-			"timeperiod" : "August 2011 - Present",
-			"company" : "ALEXpert - Freelance Technologist",
-			"description" : "Assisted in all areas of technology for different companies overall bettering my skills and enhancing the companies I worked for. Development and information security were my primary focuses."
 		},
 		{
 			"timeperiod" : "May 2015 - July 2017",
