@@ -1,15 +1,15 @@
 {
-	"title" : "Skills",
-	"skills" : {
-		"Python (Pyramid, Django, Flask)" : "70",
-		"Javascript (React, Redux, Vanilla )" : "65",
-		"Mobile (React Native, Swift, Java, iOS, Android)" : "75",
-		"Web (HTML, CSS, Photoshop)" : "80",
-		"Soft Skills (Problem Solving, Communication, Teamwork, Leadership)": "90",
-        "Databases (ORM, SQL)": "40",
-        "DevOps (Jenkins, K8S, AWS, NeverCode, Bash)": "25",
-        "Security (Networking, Pentesting, Social Engineering)": "45",
-		"Polyglot (C, R, GO, C++, PHP, etc.)": "30",
-		"Misc. (Git, VPS, DNS)": "50"
-	}
+  "title": "Skills",
+  "skills": {
+    "Python (Pyramid, Django, Flask, Jinja2, Celery, ElasticSearch, Alembic)": "70",
+    "Javascript (React, Redux, Vanilla, Typescript, Jest)": "65",
+    "Mobile (React Native, Swift, Java, Apple, Android)": "75",
+    "Web (HTML, CSS, Photoshop, Hugo, Markdown)": "80",
+    "Soft Skills (Problem Solving, Communication, Teamwork, Leadership, Management)": "90",
+    "Databases (ORM, SQL, GORM, Postgres, RDS, DynamoDB, MongoDB)": "40",
+    "DevOps (Docker, Jenkins, K8S, AWS, Terraform, Bash)": "30",
+    "Security (Networking, Pentesting, Social Engineering, Covert Entry)": "70",
+    "Polyglot (GO Golang, C, R, C++, PHP, etc.)": "45",
+    "Misc. (REST, GraphQL, GRPC, Git)": "50"
+  }
 }

@@ -1,25 +1,50 @@
 {
-	"title" : "Experience",
-	"experience" : [
-		{
-			"timeperiod" : "August 2011 - Present",
-			"company" : "ALEXpert - Freelance Technologist",
-			"description" : "Assisted in all areas of technology for different companies overall bettering my skills and enhancing the companies I worked for. Development and information security were my primary focuses."
-		},
-		{
-			"timeperiod" : "January 2019 - Present",
-			"company" : "REPAY - Mobile Tech Lead",
-			"description" : ""
-		},
-		{
-			"timeperiod" : "July 2017 - Present",
-			"company" : "REPAY - Full Stack Developer",
-			"description" : ""
-		},
-		{
-			"timeperiod" : "May 2015 - July 2017",
-			"company" : "UCF Center for Distributed Learning - Techranger",
-			"description" : "Provided support, troubleshooting, and consulting for miscellaneous groups within the University in a variety of areas. My favorite areas of focus were full stack development (Python/JS), developing security scripts (Python/AWS)."
-		}
-	]
+  "title": "Experience",
+  "experience": [
+    {
+      "timeperiod": "August 2011 - Present",
+      "company": "ALEXpert - Freelance Technologist",
+      "description": "Assisted in all areas of technology for multiple companies overall bettering my skills and enhancing the companies I worked for. Development, consulting, and information security were my primary focuses."
+    },
+    {
+      "timeperiod": "June 2021 - Present",
+      "company": "Masterbuilt | Kamodo Joe - Mobile Applications Development Manager",
+      "description": "Day to day management of development projects, multiple teams, and about 20 engineers. Hold project lead status and manage development, release, tracking, and launch of new Mobile Apps and Product Firmware. Participate in software validation process through development, review and quality testing. Write a detailed, tactical and strategic mobile roadmap that contains all facets of its development and rollout cycle. Including budgets, staffing, QA, architecture, infrastructure, and contingency planning."
+    },
+    {
+      "timeperiod": "January 2019 - July 2021",
+      "company": "REPAY - Mobile Team Lead Manager",
+      "description": "Interviewed and built an effective team of four developers for our newly formed React Native mobile apps. Owned the technology stack and influenced a team culture that was fun, productive, and focused. Was in charge of releasing and deploying our application to the Android Play Store and Apple iOS App Store. Managed one on one’s, performance reviews, and mentored our junior developer to be brought on full time. As a manager, I was rated a High Performer by my reports, “Knowledgeable, always willing to help, strong work ethic”."
+    },
+    {
+      "timeperiod": "January 2019 - July 2021",
+      "company": "REPAY - Mobile Developer",
+      "description": "Rebuilt an outsourced application on an innovation day. Executives loved the solution and green lighted me working on this full time. Created a unique solution to white label and deploy our mobile apps through automation scripts, UI testing, unit testing, and CI/CD deployment pipelines. Translated a web app to be mobile-first and integrated push notifications, biometrics, and card scanning ability."
+    },
+    {
+      "timeperiod": "January 2018 - January 2019",
+      "company": "REPAY - Platform Full Stack Developer",
+      "description": "Worked on a team of polyglots that delivered on technical debt and features for developers. Single Sign On, authentication and authorization with OPA, Active/Active database handling, a tool that moves bytes/files between services on a schedule, a developer toolkit to spin up projects, a command line interface to auth with ECR and AWS locally, developer docs service and dashboard w/ backstage, and a powerful email service wrapping SendGrid with reporting."
+    },
+    {
+      "timeperiod": "July 2017 - January 2018",
+      "company": "REPAY - Channels Full Stack Developer",
+      "description": "Worked on a team that delivered features to our customers. Enhance a highly customizable and dynamic RESTful Python API, react application, and backend processing systems focusing on electronic payment processing. SMS Pay/Chat workflows using Twilio, a programmable IVR system, checkout form improvements, fluid docs translations, crons running customer data, and self serve configuration options for sales."
+    },
+    {
+      "timeperiod": "January 2018 - Present",
+      "company": "RPAA 501(c)(3) - President (CTO)",
+      "description": "Oversaw a nonprofit board of directors where our focus was to market and grow the sport of racquetball. Implemented agile best practices with a kanban board and established a technology baseline allowing us to finally be profitable."
+    },
+    {
+      "timeperiod": "May 2015 - July 2017",
+      "company": "UCF Center for Distributed Learning - Web Developer (Techranger)",
+      "description": "Provided development, troubleshooting, and consulting within the University. The most notable project was leading a security-based alerting app using Python, Machine Learning, Javascript, and AWS Lambda."
+    },
+    {
+      "timeperiod": "June 2012 - Jan 2014",
+      "company": "YMCA of the Treasure Coast - Software Engineer",
+      "description": "Automated volunteer and employee background check process. Created and deployed a volunteer time tracking system. Developed tooling for the company intranet, website, and social media pages."
+    }
+  ]
 }

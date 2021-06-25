@@ -1,20 +1,20 @@
 {
-	"title" : "Freelance Services",
-	"services" : [
-		{
-			"icon" : "briefcase",
-			"title" : "Business Services",
-			"description" : "Running a business is hard, leave the tech for a technologist. Website design, content creation, business cards, graphic design, email servers, networking, marketing, hosting and domain name provisioning, search engine optimization, and more."
-		},
-		{
-			"icon" : "mobile",
-			"title" : "Mobile Apps",
-			"description" : "Have an existing app? Want an app? Have an idea to pitch? Using my eye for design and mobile experience we can ship and maintain world-class applications to both the Apple and Android marketplace."
-		},
-		{
-			"icon" : "lock-open",
-			"title" : "Security Consulting",
-			"description" : "A passion of mine has been getting into devices, places, and accounts that I am not supposed to be. From physical security (doors, locks, and people) to application and device security. I can do a one stop security audit and facilitate a plan to mitigate risk and exposure."
-		}
-	]
+  "title": "Freelance Services",
+  "services": [
+    {
+      "icon": "briefcase",
+      "title": "Business Services",
+      "description": "Running a business is hard, leave the tech for a technologist. Website design, content creation, business cards, graphic design, email servers, networking, marketing, hosting and domain name provisioning, search engine optimization, and more."
+    },
+    {
+      "icon": "mobile",
+      "title": "Mobile Apps",
+      "description": "Have an existing app? Want an app? Have an idea to pitch? Using my eye for design and mobile experience we can ship and maintain world-class applications to both the Apple and Android marketplace."
+    },
+    {
+      "icon": "lock-open",
+      "title": "Security Consulting",
+      "description": "A passion of mine has been getting into devices, places, and accounts that I am not supposed to be. From physical security (doors, locks, and people) to application and device security. I can do a one stop security audit and facilitate a plan to mitigate risk and exposure."
+    }
+  ]
 }
